@@ -1,0 +1,6 @@
+Lets write colors name 
+red 
+yellow 
+green 
+pink 
+blue
