@@ -1,7 +1,9 @@
+The rainbow and the unicorn
 Lets write colors name 
 red 
 yellow 
 green 
 pink 
+unicorn
 purple
 black
